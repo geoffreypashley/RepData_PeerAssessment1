@@ -1,8 +1,9 @@
 ---
-title: "Reproducible Research project 1"
+title: "Reproducible Research: Peer Assessment 1"
 author: "Geoffrey Pashley"
 date: "05/14/2015"
 output: html_document
+  keep_md: true
 ---
 ## Assumptions  
 It is assumed that the repository has been forked, and the working directory is set.
